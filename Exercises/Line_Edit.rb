@@ -4,7 +4,7 @@
 
 ACTION                                                               KEYSTROKE
 ======                                                              ===========
-  Delete All Previous Characters in that word                       alt/option + delete
+Delete All Previous Characters in that word                         alt/option + delete
 
 Delete The Character Right of Cursor                                fn + delete
 
