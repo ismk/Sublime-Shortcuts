@@ -4,21 +4,23 @@
 
 ACTION                                                               KEYSTROKE
 ======                                                              ===========
-Delete All Previous Characters in that word                         alt/option + delete
+Delete All Previous Characters in that word                        ⌘ (CMD) + ⌥ (ALT) + ⌫ (Delete)
 
-Delete The Character Right of Cursor                                fn + delete
+Delete The Character Right of Cursor                               fn + Delete
 
-Delete Everything Right of Cursor                                   command, k, k
+Delete Everything Right of Cursor                                  ⌘ (CMD), k, k
 
-Move Entire LINE                                                    command + control + arrow(u/d),
+Select Whole Line                                                  ⌘ (CMD) + l
 
-Duplicate Current Line                                              shift, command, d
+Move Entire LINE                                                   ⌘ (CMD) + ⌃ (CRLT) + Arrow Keys(u/d),
 
-Indenting                                                           command + [ or ]
-                                                                    tab
-                                                                    shift + tab
+Duplicate Current Line                                             ⇧ (Shift),⌘ (CMD), d
 
-Toggle Commenting                                                   command + /
+Indenting                                                          ⌘ (CMD) + [ or ]
+                                                                   Tab
+                                                                   Shift + tab
+
+Toggle Commenting                                                  ⌘ (CMD) + /
 
 
 =======

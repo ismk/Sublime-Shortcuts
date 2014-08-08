@@ -3,10 +3,10 @@ __________________
 
 ACTION              											 KEYSTROKE
 ======															===========
-Switch Tabs 												   command + option + arrow(l/r)
+Switch Tabs 												   ⌘ (CMD) + ⌥ (ALT) + Arrow Keys(l/r)
 
-Search Bar                							           command + p
+Search Bar                							           ⌘ (CMD) + p
 
-Select Quadrant 											   control + [1,2,3,4]
+Select Quadrant 											   ⌃ (CRLT) + [1,2,3,4]
 
-Move File to Quadrant									       control + shift + [1,2,3,4]
+Move File to Quadrant									       ⌃ (CRLT) + ⇧ (Shift) + [1,2,3,4]

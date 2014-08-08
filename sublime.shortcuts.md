@@ -5,6 +5,7 @@
 - BracketHighliter
 - Emmet
 - Git and GitGutter
+- JS / Ruby Linter
 
 
 
@@ -13,8 +14,8 @@
 | --------------------- | ----------------------------------------
 | ⌘ + Arrow Keys        | Extreme Move
 | ⌃+⇧+UP/DOWN          | Multiple Selections Up & Down
-| ⌃+⌘+Arrow Keys       | Move line up or down
 | ⌥+Arrow Keys          | Move by Word
+| ⌃+⌘+Arrow Keys       | Move line up or down
 | ⌘ + ⇧ + D            | Duplicate line(s)
 | ⌘ + [ or ]            | Indent Lines
 | ⌘ + /                 | Toggle commenting
@@ -33,7 +34,7 @@
 | ⌘ + K + ⌫           | Delete from cursor to start of line
 | ⌘ + J                 | Join line below to the end of the current line
 | ⌘ + /                 | Comment/un-comment current line
-| ⌘ + ⌥ + /            | Block comment current selection
+| ⌘ + ` + /            | Block comment current selection
 | ⌘ + Y                 | Redo, or repeat last keyboard shortcut command
 | ⌥+DELETE              | Delete all previous characters in word
 | ⌘ + ⇧ + V            | Paste and indent correctly

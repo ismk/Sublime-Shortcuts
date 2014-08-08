@@ -3,16 +3,16 @@ ______________
 
 ACTION              							  		  KEYSTROKE
 ======						           					 ===========
-Select Specific Area								    shift + arrow
+Select Specific Area								    ⇧ (Shift) + Left/Right
 
-Select Entire Line                         				command + l
+Select Entire Line                         				⌘ (CMD) + l
 
-Select Next Instance                      				command + d
+Select Next Instance                      				⌘ (CMD) + d
 
-Select All Instances	                			    control + command + g
+Select All Instances	                			    ⌃ (CRTL) + ⌘ (CMD) + g
 
-Multiple cursors                     				    Option + Click && Drag
-
+Multiple cursors                     				    ⌥ (OPT) + Click && Drag
+                                                        ⌃ (Crtl)+ ⇧ (Shift) + Arrow Keys(u/d)
 
 
 
