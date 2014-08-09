@@ -18,7 +18,6 @@ Duplicate Current Line                                             ⇧ (Shift),�
 
 Indenting                                                          ⌘ (CMD) + [ or ]
                                                                    ⇥ (Tab)
-                                                                   ⇧ (Shift) + ⇥ (Tab)
 
 Toggle Commenting                                                  ⌘ (CMD) + /
 

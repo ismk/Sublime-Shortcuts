@@ -6,6 +6,7 @@
 - Emmet
 - Git and GitGutter
 - JS / Ruby Linter
+- Origami
 
 
 

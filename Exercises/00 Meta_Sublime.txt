@@ -42,5 +42,3 @@ CREATING TERMINAL SHORTCUTS TO SUBLIME
 **************************************
 PASTE INTO TERMINAL: open -a "Sublime Text" ~/.bash_profile
 PASTE INTO BASH PROFILE: alias subl="open -a 'Sublime Text'"
-
-

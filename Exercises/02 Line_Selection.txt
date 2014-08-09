@@ -9,7 +9,7 @@ Select Entire Line                         				⌘ (CMD) + l
 
 Select Next Instance                                    ⌘ (CMD) + d
 
-Skip Instance and Goto Next Instance              		⌘ (CMD) + k + ⌘ (CMD) + d
+Skip Instance and Goto Next Instance              		⌘ (CMD)[HOLD] + k + d
 
 Select All Instances	                			    ⌃ (CRTL) + ⌘ (CMD) + g
 

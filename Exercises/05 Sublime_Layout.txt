@@ -13,4 +13,4 @@ Make 2..3 Rows	                                                 ⌘ (CMD) + ⌥ 
 
 Make 2x2 Grid 													 ⌘ (CMD)+  ⌥ (ALT) + 5
 
-Minimize/Maximize Side Bar  							         ⌘ (CMD) + k + b
+Minimize/Maximize Side
