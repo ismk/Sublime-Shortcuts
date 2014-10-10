@@ -3,7 +3,7 @@ __________________
 
 ACTION              											 KEYSTROKE
 ======															===========
-Switch Tabs 												   ⌘ (CMD) + ⌥ (ALT) + Arrow Keys(l/r)
+Switch tabs 												   ⌘ (CMD) + ⌥ (ALT) + Arrow Keys(l/r)
 
 Search Bar                							           ⌘ (CMD) + p
 
